@@ -14,9 +14,11 @@
       "backgroundColor": "#1C1C1E"
     },
     "ios": {
-      "supportsTablet": false
+      "supportsTablet": false,
+      "bundleIdentifier": "com.aminess99.calculator"
     },
     "android": {
+      "package": "com.aminess99.calculator",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#1C1C1E"
